@@ -67,7 +67,7 @@
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="A pré condição é que os relatórios da pagina  UploadYearlyReport estejam abertos&#xD;&#xA;" DisplayName="System1_UploadYearlyReport" sap:VirtualizedContainerService.HintSize="376.571428571429,1445.71428571429" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="A pré condição é que os relatórios da pagina  UploadYearlyReport estejam abertos&#xA;" DisplayName="System1_UploadYearlyReport" sap:VirtualizedContainerService.HintSize="376.571428571429,1445.71428571429" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>

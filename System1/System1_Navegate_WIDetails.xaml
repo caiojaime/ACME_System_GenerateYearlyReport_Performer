@@ -85,7 +85,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:NavigateTo Browser="{x:Null}" DisplayName="Navigate To" sap:VirtualizedContainerService.HintSize="334.285714285714,58.2857142857143" sap2010:WorkflowViewState.IdRef="NavigateTo_1" Url="[System1_URL + &quot;work-items/&quot; + Workitem_ID.ToString]" />
+            <ui:NavigateTo Browser="{x:Null}" DisplayName="Navigate To" sap:VirtualizedContainerService.HintSize="334.285714285714,58.2857142857143" sap2010:WorkflowViewState.IdRef="NavigateTo_1" Url="[System1_URL + &quot;/work-items/&quot; + Workitem_ID.ToString]" />
           </Sequence>
         </ActivityAction>
       </ui:BrowserScope.Body>
